@@ -9,7 +9,7 @@ $(function () {
 	$(window).scroll(function () {
 			if ($(window).scrollTop() > 71) {
 				$('#main-nav').css({
-					"background-color": "aquamarine"
+					"background-color": "deepskyblue"
 					, "transition-duration": "1s"
 				})
 			}
